@@ -1,0 +1,4 @@
+C:\Users\trist\Downloads\ColourSpace\ColourSpace\Debug\ColourSpace.vcxproj.AssemblyReference.cache
+C:\Users\trist\Downloads\ColourSpace\ColourSpace\Debug\ColourSpace.ColourSpaceForm.resources
+C:\Users\trist\Downloads\ColourSpace\ColourSpace\Debug\ColourSpace.vcxproj.GenerateResource.cache
+C:\Users\trist\Downloads\ColourSpace\ColourSpace\Debug\ColourSpace.exe
