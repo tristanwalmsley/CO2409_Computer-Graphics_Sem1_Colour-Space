@@ -13,6 +13,7 @@ int main(array<System::String ^> ^args)
 	Application::SetCompatibleTextRenderingDefault(false); 
 
 	// making some changes to the file.
+// new change
 	Application::Run(gcnew ColourSpaceForm());
 	return 0;
 }
