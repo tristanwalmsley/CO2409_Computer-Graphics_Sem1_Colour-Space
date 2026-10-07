@@ -12,7 +12,7 @@ int main(array<System::String ^> ^args)
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false); 
 
-	// Create the main window and run it
+	// making some changes to the file.
 	Application::Run(gcnew ColourSpaceForm());
 	return 0;
 }
